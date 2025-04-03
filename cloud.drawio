@@ -684,39 +684,96 @@
     </mxGraphModel>
   </diagram>
   <diagram id="stXXw4jsUWmbncNsXm9F" name="페이지-2">
-    <mxGraphModel dx="1044" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="720" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LwlNHdEnuL6hcCFZ2hrd-1" value="K-Cloud 매니지드 서비스(Managed Service) 모델" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="760" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwlNHdEnuL6hcCFZ2hrd-2" target="F3pdCYSSZshQgsYUqbOS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LwlNHdEnuL6hcCFZ2hrd-2" value="백업/스토리지" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LwlNHdEnuL6hcCFZ2hrd-3" target="F3pdCYSSZshQgsYUqbOS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LwlNHdEnuL6hcCFZ2hrd-3" target="F3pdCYSSZshQgsYUqbOS-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LwlNHdEnuL6hcCFZ2hrd-3" value="네트워크/&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;보안&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwlNHdEnuL6hcCFZ2hrd-4" target="F3pdCYSSZshQgsYUqbOS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwlNHdEnuL6hcCFZ2hrd-4" target="F3pdCYSSZshQgsYUqbOS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LwlNHdEnuL6hcCFZ2hrd-4" value="CMP&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(포털)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LwlNHdEnuL6hcCFZ2hrd-5" target="F3pdCYSSZshQgsYUqbOS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LwlNHdEnuL6hcCFZ2hrd-5" target="F3pdCYSSZshQgsYUqbOS-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LwlNHdEnuL6hcCFZ2hrd-5" value="Cloud&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;플랫폼&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LwlNHdEnuL6hcCFZ2hrd-6" value="VM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="100" height="40" as="geometry" />
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwlNHdEnuL6hcCFZ2hrd-6" target="F3pdCYSSZshQgsYUqbOS-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F3pdCYSSZshQgsYUqbOS-1" value="&lt;strong data-start=&quot;273&quot; data-end=&quot;282&quot;&gt;서버 관리&lt;/strong&gt;: 서버의 운영과 유지보수, 업그레이드, 패치 관리 등을 담당합니다. 이는 물리적인 서버뿐만 아니라 가상 서버와 클라우드 서버도 포함됩니다." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="315" width="560" height="50" as="geometry" />
+        <mxCell id="LwlNHdEnuL6hcCFZ2hrd-6" value="VM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-1" value="&lt;strong data-start=&quot;273&quot; data-end=&quot;282&quot;&gt;서버 관리&lt;/strong&gt;: 서버의 운영과 유지보수, 업그레이드, 패치 관리 등을 담당" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="340" width="623" height="25" as="geometry" />
         </mxCell>
         <mxCell id="F3pdCYSSZshQgsYUqbOS-2" value="&lt;strong data-start=&quot;366&quot; data-end=&quot;377&quot;&gt;스토리지 관리&lt;/strong&gt;: 데이터 저장소의 운영, 백업 및 복구 시스템을 관리합니다. 데이터 손실을 방지하고, 필요한 데이터를 효율적으로 관리하는 역할을 합니다." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="465" width="560" height="50" as="geometry" />
+          <mxGeometry x="187" y="465" width="633" height="25" as="geometry" />
         </mxCell>
         <mxCell id="F3pdCYSSZshQgsYUqbOS-3" value="&lt;strong data-start=&quot;460&quot; data-end=&quot;471&quot;&gt;네트워크 관리&lt;/strong&gt;: 기업의 네트워크 인프라를 구축하고, 이를 안정적으로 운영하도록 돕습니다. 네트워크의 성능 모니터링, 보안 관리, 트래픽 관리 등이 포함됩니다." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="365" width="560" height="50" as="geometry" />
+          <mxGeometry x="187" y="365" width="633" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F3pdCYSSZshQgsYUqbOS-4" value="&lt;strong data-start=&quot;680&quot; data-end=&quot;689&quot;&gt;보안(패치 관리)&lt;/strong&gt;: 운영체제 및 소프트웨어의 보안 패치를 정기적으로 적용하여, 취약점을 최소화합니다." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="410" width="550" height="40" as="geometry" />
+          <mxGeometry x="187" y="410" width="633" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F3pdCYSSZshQgsYUqbOS-5" target="F3pdCYSSZshQgsYUqbOS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F3pdCYSSZshQgsYUqbOS-5" target="F3pdCYSSZshQgsYUqbOS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-5" value="Application" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-6" value="&lt;strong data-start=&quot;841&quot; data-end=&quot;860&quot;&gt;소프트웨어 업데이트 및 관리&lt;/strong&gt;: 최신 버전으로 업그레이드하고, 버그 수정 및 최적화를 제공" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="90" width="623" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-7" value="&lt;strong data-start=&quot;920&quot; data-end=&quot;938&quot;&gt;애플리케이션 성능 모니터링&lt;/strong&gt;: 애플리케이션의 성능을 지속적으로 모니터링하고, 문제 발생 시 빠르게 대응" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="120" width="620" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-8" value="&lt;strong data-start=&quot;1010&quot; data-end=&quot;1025&quot;&gt;클라우드 인프라 관리&lt;/strong&gt;: 클라우드 환경에서의 서버, 스토리지, 데이터베이스 등을 통합 연계 관리" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="311" width="633" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;가상서버(VM)( 관리 : &lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;합니다. 이는 물리적인 서버뿐만 아니라 가상 서버와 클라우드 서버도 포함됩니다.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="175" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-19" value="&lt;strong data-start=&quot;1094&quot; data-end=&quot;1105&quot;&gt;백업 및 복구&lt;/strong&gt;: 클라우드 기반의 데이터 백업 및 복구 솔루션을 활용하여 데이터 손실을 방지하고, 장애 발생 시 신속하게 복구할 수 있도록 지원" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="500" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LwlNHdEnuL6hcCFZ2hrd-2" target="F3pdCYSSZshQgsYUqbOS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-22" value="&lt;strong data-start=&quot;1209&quot; data-end=&quot;1221&quot;&gt;실시간 모니터링&lt;/strong&gt;: 시스템의 상태, 성능, 트래픽 등을 실시간으로 모니터링하여, 잠재적인 문제를 미리 발견하고 예방 조치를 취합니다." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="223" width="560" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pdCYSSZshQgsYUqbOS-23" value="&lt;strong data-start=&quot;1292&quot; data-end=&quot;1307&quot;&gt;정기적인 보고서 제공&lt;/strong&gt;: 시스템의 성능, 보안 상태, 업타임 등에 대한 정기적인 보고서를 제공하여, 기업이 자신의 IT 환경을 효율적으로 파악할 수 있게 합니다." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="258" width="560" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
